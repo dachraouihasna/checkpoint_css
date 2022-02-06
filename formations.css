@@ -1,0 +1,87 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #360518;
+    color: #ffffff;
+  }
+
+
+  h1 {
+    font-family:italic;
+}
+
+a{
+    color: #5b7ef0;
+}
+
+
+.etude {
+    background-color: rgb(73, 3, 41);
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    display: flex;
+}
+
+#master {
+  
+    padding: 10px;
+    width: 30%;
+    height: 30%;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+#centre{
+    padding: 10px;
+    width: 40%;
+    height: 40%;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+ #gmc{
+     margin-top: 0px;
+ }
+
+ .competence {
+     margin: 40px;
+    border-radius: 15px;
+    background-color: rgb(73, 3, 41);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    display: flex;
+ } 
+ .logiciel {
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+ }
+
+ #langage {
+    
+    
+    margin-left: 70px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+ }
+
+ div{
+    border-width: 1px;
+    border-style: hidden;
+    padding: 10px 10px;
+}
